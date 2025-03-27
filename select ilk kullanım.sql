@@ -1,0 +1,1 @@
+select *from ogrencitablosu where  Dogumyili <> 2002 -- o iþaret 2002 hariç hepsi anlamýna gelir

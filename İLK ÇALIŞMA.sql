@@ -1,0 +1,1 @@
+insert into Ogrenci values (8,'ali','Cimens',1881,NULL);
